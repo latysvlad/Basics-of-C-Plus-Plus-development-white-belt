@@ -1,5 +1,5 @@
 # Basics-of-C-Plus-Plus-development-white-belt
-[Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white/) by Moscow Institute of Physics and Technology & Yandex
+Основы разработки на C++: белый пояс by Moscow Institute of Physics and Technology & Yandex
 
 <p>
     <a href="https://www.coursera.org/learn/c-plus-plus-white/">
