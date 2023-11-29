@@ -43,6 +43,8 @@ void PrintName(const LectureTitle& title){
 
 int main(){
 	
+//		Проверка:
+	
 //	LectureTitle title("C++","White belt","4th");
 //	LectureTitle title(string("C++"),string("White belt"),string("4th"));
 //	LectureTitle title{"C++","White belt","4th"};
