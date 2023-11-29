@@ -71,10 +71,12 @@ int main(){
 	for(int year:{1900,1965,1990}){
 		cout<<person.GetFullName(year)<<endl;
 	}
+	
 	person.ChangeFirstName(1970, "Appolinaria");
 	for(int year:{1969,1970}){
 		cout<<person.GetFullName(year)<<endl;
 	}
+	
 	person.ChangeLastName(1970, "Volkova");
 	for(int year:{1969,1970}){
 		cout<<person.GetFullName(year)<<endl;
